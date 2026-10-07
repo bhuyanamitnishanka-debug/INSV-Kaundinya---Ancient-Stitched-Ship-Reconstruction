@@ -1,0 +1,6 @@
+{
+  "name": "INSV Kaundinya - Ancient Stitched Ship Reconstruction",
+  "description": "A comprehensive historical, technical, and engineering chronicle of INSV Kaundinya: reconstructing ancient Indian stitched vessels using the Yuktikalpataru, Ajanta murals, and traditional seafaring navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
